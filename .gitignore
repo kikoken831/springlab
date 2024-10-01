@@ -1,3 +1,3 @@
 /.idea/
 /.DS_Store
-/lab/12-javaconfig-dependency-injection/target/
+/lab/*/target
